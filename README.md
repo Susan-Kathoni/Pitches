@@ -60,7 +60,7 @@ Kindly reach out to me via email: kathonisusan@gmail.com
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Susan-Kathoni/Profile-pitching/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Susan-Kathoni/Pitches/blob/master/LICENSE)
 
 ## Codebeat
 
