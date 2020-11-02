@@ -1,0 +1,25 @@
+body{
+    background-color: darkslategrey;
+    font-family: 'Amarante', cursive;
+}
+
+.img-front{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-right: 30px;
+}
+
+.card-content{
+    box-shadow: black;
+}
+
+.date{
+    font-size: 16px;
+    font-style: italic;
+    margin-left: 12%;
+}
+
+
+
