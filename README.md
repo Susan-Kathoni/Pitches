@@ -51,7 +51,7 @@ A user can:
 
 ## Known Bugs
 
-The application does not display the profile picture and username.
+The application does not display the profile picture and username. It instead displays the user_id instead of the username.
 
 ## Contact Details
 
